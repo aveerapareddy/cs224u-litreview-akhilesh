@@ -2,7 +2,7 @@
 
 **Title:** Enhancing Compositional Generalization in Semantic Parsing via Few-Shot In-Context Learning  
 **Author:** Akhilesh Veerapareddy  
-**Course:** CS224u: Natural Language Understanding (Stanford, Spring 2025)  
+**Course:** CS224u: Natural Language Understanding (Stanford,2025)  
 
 ## 📄 Paper
 
